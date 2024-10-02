@@ -10,6 +10,8 @@ To solve this issue, I decided to develop a mobile app that would make it easier
 Random lottery number generation based on specified intervals.
 Quick and easy access to the numbers anytime, anywhere.
 
-#Technology Stack
+# Technology Stack
 Kotlin for mobile app development.
 C# for the original desktop application.
+
+!()[https://github.com/Felix-Red/NumbersMobileApp/blob/master/WhatsApp%20Image%202024-10-02%20at%2011.30.44_3e4b46f1.jpg]
